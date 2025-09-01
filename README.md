@@ -1,6 +1,6 @@
-<img width="900" height="300" alt="Image" src="https://github.com/user-attachments/assets/e62c6d59-ddcf-404b-9e12-5db4e358d5b7" />
+<img width="870" height="300" alt="Github header - Nathalia Bezerra" src="https://github.com/user-attachments/assets/7678a2b6-b48a-4454-8e52-5cc2e89ffda5" />
 
-## 💻 Techs I've used in projects or explored during my learning journey
+## 💻 Tecnologias que já explorei _ou_ usei em projetos
 
 [![HTML5](https://img.shields.io/badge/HTML5-4b3366?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS](https://img.shields.io/badge/CSS-4b3366?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
@@ -16,17 +16,16 @@
 [![Python](https://img.shields.io/badge/Python-4b3366?style=flat&logo=python&logoColor=white)](https://www.python.org) 
 [![Java](https://img.shields.io/badge/Java-4b3366?style=flat&logo=java&logoColor=white)](https://www.java.com) 
 [![React](https://img.shields.io/badge/React-4b3366?style=flat&logo=react&logoColor=white)](https://reactjs.org) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4b3366?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
+## 🎯 No que estou focada
+- Aprimorar minhas habilidades em frameworks modernos
+- Fortalecer meu conhecimento em acessibilidade digital
+- Criar e compartilhar projetos pessoais no Github
 
+## 🎓 Minha formação
+- Bacharel em Tecnologia da Informação (concluído em 2025)
+- Atualmente cursando Engenharia de Software
 
-## 🎯 What I'm currently focused on
-- Improving skills in modern frameworks
-- Strengthening knowledge in web accessibility 
-- Creating and sharing personal projects on GitHub  
-
-## 🎓 Education
-- Bachelor’s degree in Information Technology, completed in 2025  
-- Currently pursuing a Bachelor's in Software Engineering (since 2025)
-
-## 🎃 More about me
-- I like dogs, coffee, photography and cute spooky stuff. <img alt="bat" width="10x" height="20px" src="https://i.pinimg.com/originals/fc/fa/31/fcfa316b33aa1f3c05a67d195ddbb686.gif">
+## 🎃 Mais sobre mim
+- Eu gosto de cachorros, café, fotografia e coisas que são assustadoras<strong>&</strong>fofinhas ao mesmo tempo. <img alt="Ilustração de um pequeno morcego voando" width="10x" height="20px" src="https://i.pinimg.com/originals/fc/fa/31/fcfa316b33aa1f3c05a67d195ddbb686.gif">
