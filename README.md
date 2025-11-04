@@ -17,15 +17,17 @@
 [![Java](https://img.shields.io/badge/Java-4b3366?style=flat&logo=java&logoColor=white)](https://www.java.com) 
 [![React](https://img.shields.io/badge/React-4b3366?style=flat&logo=react&logoColor=white)](https://reactjs.org) 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4b3366?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Angular](https://img.shields.io/badge/Angular-4b3366?style=flat&logo=angular&logoColor=white)](https://angular.io)
 
-## 🎯 No que estou focada
+
+### 🎯 No que estou focada
 - Aprimorar minhas habilidades em frameworks modernos
 - Fortalecer meu conhecimento em acessibilidade digital
 - Criar e compartilhar projetos pessoais no Github
 
-## 🎓 Minha formação
+### 🎓 Minha formação
 - Bacharel em Tecnologia da Informação (concluído em 2025)
 - Atualmente cursando Engenharia de Software
 
-## 🎃 Mais sobre mim
+### 🎃 Mais sobre mim
 - Eu gosto de cachorros, café, fotografia e coisas que são assustadoras<strong>&</strong>fofinhas ao mesmo tempo. <img alt="Ilustração de um pequeno morcego voando" width="10x" height="20px" src="https://i.pinimg.com/originals/fc/fa/31/fcfa316b33aa1f3c05a67d195ddbb686.gif">
