@@ -29,7 +29,3 @@
 ### 🎯 No que estou focada
 - Aprimorar minhas habilidades em frameworks modernos
 - Fortalecer meu conhecimento em acessibilidade digital
-
-### 🎓 Minha formação
-- Bacharel em Tecnologia da Informação
-- Atualmente cursando Engenharia de Software
