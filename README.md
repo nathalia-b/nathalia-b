@@ -25,7 +25,3 @@
 [![C](https://img.shields.io/badge/C-4b3366?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
 [![C++](https://img.shields.io/badge/C++-4b3366?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![Python](https://img.shields.io/badge/Python-4b3366?style=flat&logo=python&logoColor=white)](https://www.python.org)
-
-### 🎯 No que estou focada
-- Aprimorar minhas habilidades em frameworks modernos
-- Fortalecer meu conhecimento em acessibilidade digital
