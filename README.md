@@ -1,4 +1,4 @@
-<img width="870" height="300" alt="Github header - Nathalia Bezerra" src="https://github.com/user-attachments/assets/7678a2b6-b48a-4454-8e52-5cc2e89ffda5" />
+<img  alt="Github header - Nathalia Bezerra" src="https://github.com/user-attachments/assets/7678a2b6-b48a-4454-8e52-5cc2e89ffda5" />
 
 ## 💻 Tecnologias que já explorei _ou_ usei em projetos
 
